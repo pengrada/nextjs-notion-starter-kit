@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '我的博客',
-  domain: 'https://www.notion.so/pengrada/d1fd4f2622594e0c8aeffd7577b843dc,
+  domain: 'https://www.notion.so/pengrada/d1fd4f2622594e0c8aeffd7577b843dc',
   author: 'pengrada',
 
   // open graph metadata (optional)
